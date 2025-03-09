@@ -877,6 +877,13 @@
                     "source": "brands"
                 }
             ]
+        },
+        {
+            "key": "51d64439-9b4d-4116-8a17-7f1c2958c033",
+            "title": "Landing",
+            "icon": "sicon-store",
+            "path": "Landing",
+            "fields": []
         }
     ],
     "support_url": null,
