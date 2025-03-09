@@ -884,6 +884,13 @@
             "icon": "sicon-store",
             "path": "Landing",
             "fields": []
+        },
+        {
+            "key": "8fdfc494-7504-4dc9-8ec4-568c8695732b",
+            "title": "Landing",
+            "icon": "sicon-store",
+            "path": ".landing",
+            "fields": []
         }
     ],
     "support_url": null,
