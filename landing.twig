@@ -1,0 +1,8 @@
+{% extends "base.twig" %}  {# إن كان لديك قالب رئيسي #}
+{% block content %}
+<section class="hero">
+  <h1>متجر صفحة واحدة</h1>
+  <p>وصف قصير للمنتج أو العرض.</p>
+  <button onclick="window.location.href='{{ product.add_to_cart_url }}'">اطلب الآن</button>
+</section>
+{% endblock %}
