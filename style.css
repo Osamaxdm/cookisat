@@ -1,0 +1,13 @@
+.hero {
+  padding: 2rem;
+  text-align: center;
+  background: #ff9a3c;
+  color: #fff;
+}
+button {
+  background: #fff;
+  color: #ff6600;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  cursor: pointer;
+}
