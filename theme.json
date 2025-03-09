@@ -1,0 +1,16 @@
+{
+  "settings": [
+    {
+      "type": "text",
+      "id": "landing_title",
+      "label": "عنوان الصفحة",
+      "default": "متجر صفحة واحدة"
+    },
+    {
+      "type": "color",
+      "id": "hero_bg_color",
+      "label": "لون خلفية الهيرو",
+      "default": "#ff9a3c"
+    }
+  ]
+}
